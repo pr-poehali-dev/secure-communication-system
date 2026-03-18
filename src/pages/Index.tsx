@@ -34,12 +34,10 @@ const SlideTitle = () => (
       <div className="text-xs font-mono text-white bg-gray-950 px-4 py-2 tracking-widest">ВКР</div>
     </div>
     <div className="relative z-10 max-w-3xl">
-      <div className="text-xs font-mono text-gray-400 tracking-widest uppercase mb-6">Выпускная квалификационная работа</div>
-      <h1 className="text-5xl font-light leading-tight text-gray-950 mb-8 tracking-tight">
-        Разработка системы<br />
-        <span className="font-semibold">защищённой<br />коммуникации</span><br />
-        <span className="text-2xl font-light text-gray-500">с контролем целостности<br />и подлинности сообщений</span>
+      <h1 className="text-6xl font-semibold leading-tight text-gray-950 mb-6 tracking-tight">
+        Разработка системы<br />защищённой<br />коммуникации
       </h1>
+      <p className="text-2xl font-light text-gray-500 mb-8">Контроль целостности и подлинность сообщений</p>
       <div className="w-16 h-px bg-gray-950 mb-8" />
       <div className="space-y-1">
         <div className="text-sm text-gray-700 font-medium">Поваров Максим Константинович</div>
